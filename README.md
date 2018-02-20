@@ -4,7 +4,7 @@ Analysing Food Health Rating scores across the UK from http://ratings.food.gov.u
 # Project Aim 
 
 1) The aim of this project is to initially extract and clean all data related to Food Health Ratings to understand the distribution of Ratings across the UK 
-2) Once the data has been extracted and clean I plan to incorporate external data sources such as Housing Prices, Future development in high populated areas, Crime data to potentially understand what factors contribute to the determination of House Prices and the overall satis  
+2) Once the data has been extracted and clean I plan to incorporate external data sources such as Housing Prices, Future development in high populated areas, Crime data to potentially understand what factors contribute to the determination of House Prices 
 
 # Current Progress
 
